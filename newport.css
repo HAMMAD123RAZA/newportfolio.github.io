@@ -1,0 +1,97 @@
+#img1{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+}
+body{
+    background-color:gray;
+}
+#img2{
+    width: 270px;
+    height: 250px;
+   
+    /* mix-blend-mode: multiply; */
+    
+}
+/* #border{
+    border: 7px solid;
+    width: 80%;
+} */
+/* .border1{
+    border: 21px solid rgb(27, 20, 21);
+    width: 37%;
+} */
+.nav-item :hover{
+    background-color: darkgray;
+
+    border-radius: 74px;
+    transition: 1s all;
+}
+
+#footerimg{
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+    /* box-shadow: 13px 5px 12px 9px; */
+    background-color: darkgray;
+
+   width: 80%;
+   height: 5rem;
+   /* border: 2px solid black; */
+   position: absolute;
+   top: 50%;
+   display: flex;
+   justify-content: space-evenly;
+   position: absolute;
+   left: 8%;
+   padding-top: 10px;
+}
+
+.meta{
+    background-color: rgb(22, 21, 22);
+
+    width: 88px;height:57px;
+   /* box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; */
+   box-shadow: 8px 8px 12px 4px  ;
+   padding: 16px;
+
+}
+#sidepic{
+    width: 151px;height: 65px;
+}
+/* #ui{
+    position: absolute;
+    bottom: 15%;
+} */
+.card{
+    background-color: dimgray;
+}
+#text{
+font-family: 'Fascinate', cursive;
+}
+#id2{
+    width: 77%;
+}
+#icon{
+position: relative;
+left: 43%;
+color: darkgray;
+}
+#frontend{
+    position: relative;
+    left: 50%;
+    bottom: 0.1%;
+}
+#icon2{
+    color: rgb(255, 226, 4);
+}
+#pics{
+    width: 121px;
+    height: 91px;
+}
+#project{
+position: absolute;
+bottom: 0.05px;
+}
+#footer{
+    position: absolute;
+    bottom: 13%;
+}
